@@ -6,3 +6,8 @@ def max(a,b):
         return a
     else:
         return b
+def kichik(a,b):
+    if a<b:
+        return a
+    else:
+        return b
